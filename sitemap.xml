@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!-- Home -->
+<url>
+<loc>https://zacharykai.net/</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+ 
+<!-- PAGES -->
+
+<!-- About -->
+<url>
+<loc>https://zacharykai.net/about</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+
+<!-- Art -->
+<url>
+<loc>https://zacharykai.net/art</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+
+<!-- Fiction -->
+<url>
+<loc>https://zacharykai.net/fiction</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+
+<!-- Lists -->
+<url>
+<loc>https://zacharykai.net/lists</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+
+<!-- Log -->
+<url>
+<loc>https://zacharykai.net/log</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+
+<!-- Now -->
+<url>
+<loc>https://zacharykai.net/now</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+
+<!-- Sitemap -->
+<url>
+<loc>https://zacharykai.net/sitemap</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+
+<!-- Uses -->
+<url>
+<loc>https://zacharykai.net/uses</loc>
+<lastmod>2024-06-18</lastmod>
+</url>
+
+</urlset>
