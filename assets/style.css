@@ -1,0 +1,64 @@
+body {
+    background-color: #f6e6cf;
+    font-family: Palatino Linotype, serif, sans-serif;
+    color: #503832;
+    font-size: 21px;
+    line-height: 1.6em;
+    max-width: 900px;
+    margin: 25px auto;
+    padding: 0 12px;
+}
+
+header {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    border: 3px #503832 double;
+}
+
+.essentials {
+    margin-top: -10px;
+    font-size: 15px;
+}
+
+.postmeta {
+    margin-top: -10px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    border-bottom: 3px #503832 double;
+}
+
+main {
+    margin-top: 25px;
+    padding: 20px;
+    border: 3px #503832 double;
+}
+
+footer {
+    margin-top: 25px;
+    padding: 20px;
+    border: 3px #503832 double;
+    font-size: 15px;
+    line-height: 1.2em;
+}
+
+a {
+    color: #503832;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+}
