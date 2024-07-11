@@ -13,49 +13,57 @@
 <!-- About -->
 <url>
 <loc>https://zacharykai.net/about</loc>
-<lastmod>2024-06-18</lastmod>
+<lastmod>2024-07-11</lastmod>
 </url>
 
-<!-- Art -->
+<!-- Changelog -->
 <url>
-<loc>https://zacharykai.net/art</loc>
-<lastmod>2024-06-18</lastmod>
+<loc>https://zacharykai.net/changelog</loc>
+<lastmod>2024-07-11</lastmod>
 </url>
 
-<!-- Fiction -->
+<!-- Colophon -->
 <url>
-<loc>https://zacharykai.net/fiction</loc>
-<lastmod>2024-06-18</lastmod>
+<loc>https://zacharykai.net/colophon</loc>
+<lastmod>2024-07-11</lastmod>
 </url>
 
-<!-- Lists -->
+<!-- Defaults -->
 <url>
-<loc>https://zacharykai.net/lists</loc>
-<lastmod>2024-06-18</lastmod>
+<loc>https://zacharykai.net/defaults</loc>
+<lastmod>2024-07-11</lastmod>
 </url>
 
-<!-- Log -->
+<!-- Hello -->
 <url>
-<loc>https://zacharykai.net/log</loc>
-<lastmod>2024-06-18</lastmod>
+<loc>https://zacharykai.net/hello</loc>
+<lastmod>2024-07-11</lastmod>
 </url>
 
-<!-- Now -->
+<!-- Interests -->
 <url>
-<loc>https://zacharykai.net/now</loc>
-<lastmod>2024-06-18</lastmod>
+<loc>https://zacharykai.net/interests</loc>
+<lastmod>2024-07-11</lastmod>
 </url>
 
 <!-- Sitemap -->
 <url>
 <loc>https://zacharykai.net/sitemap</loc>
-<lastmod>2024-06-18</lastmod>
+<lastmod>2024-07-11</lastmod>
 </url>
 
 <!-- Uses -->
 <url>
 <loc>https://zacharykai.net/uses</loc>
-<lastmod>2024-06-18</lastmod>
+<lastmod>2024-07-11</lastmod>
+</url>
+
+<!-- NOTES -->
+
+<!-- Site Ideas -->
+<url>
+<loc>https://zacharykai.net/notes/site-ideas</loc>
+<lastmod>2024-07-11</lastmod>
 </url>
 
 </urlset>
