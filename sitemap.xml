@@ -13,57 +13,101 @@
 <!-- About -->
 <url>
 <loc>https://zacharykai.net/about</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
+</url>
+
+<!-- Blogroll -->
+<url>
+<loc>https://zacharykai.net/blogroll</loc>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- Changelog -->
 <url>
 <loc>https://zacharykai.net/changelog</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- Colophon -->
 <url>
 <loc>https://zacharykai.net/colophon</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- Defaults -->
 <url>
 <loc>https://zacharykai.net/defaults</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- Hello -->
 <url>
 <loc>https://zacharykai.net/hello</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- Interests -->
 <url>
 <loc>https://zacharykai.net/interests</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
+</url>
+
+<!-- Music -->
+<url>
+<loc>https://zacharykai.net/music</loc>
+<lastmod>2024-07-24</lastmod>
+</url>
+
+<!-- Now -->
+<url>
+<loc>https://zacharykai.net/now</loc>
+<lastmod>2024-07-12</lastmod>
+</url>
+
+<!-- Save -->
+<url>
+<loc>https://zacharykai.net/save</loc>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- Sitemap -->
 <url>
 <loc>https://zacharykai.net/sitemap</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- Uses -->
 <url>
 <loc>https://zacharykai.net/uses</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- NOTES -->
 
+<!-- Mildura Writers Festival -->
+<url>
+<loc>https://zacharykai.net/notes/mwf24</loc>
+<lastmod>2024-07-24</lastmod>
+</url>
+
 <!-- Site Ideas -->
 <url>
 <loc>https://zacharykai.net/notes/site-ideas</loc>
-<lastmod>2024-07-11</lastmod>
+<lastmod>2024-07-24</lastmod>
+</url>
+
+<!-- STORIES -->
+
+<!-- Break Yourself Against The Universe -->
+<url>
+<loc>https://zacharykai.net/stories/break</loc>
+<lastmod>2024-07-24</lastmod>
+</url>
+
+<!-- One Seed At A Time -->
+<url>
+<loc>https://zacharykai.net/stories/seed</loc>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 </urlset>
