@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">>
 
 <channel>
 
@@ -8,6 +9,14 @@
 <description>Offbeat, queer, 20-something, curiosity enthusiast, and traveler.</description>
 <language>en-us</language>
 <atom:link href="https://zacharykai.net/assets/rss.xml" rel="self" type="application/rss+xml" />
+
+<image>
+<url>https://zacharykai.net/assets/zk_icon.png</url>
+<title>Zachary Kai</title>
+<link>https://zacharykai.net/</link>
+</image>
+
+<lastBuildDate>Mon, 24 Jul 2024 12:00:00 +0000</lastBuildDate>
 
 <item>
 <title>Notes: Mildura Writers Festival 2024</title>
