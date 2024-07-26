@@ -25,13 +25,13 @@
 <!-- Changelog -->
 <url>
 <loc>https://zacharykai.net/changelog</loc>
-<lastmod>2024-07-24</lastmod>
+<lastmod>2024-07-26</lastmod>
 </url>
 
 <!-- Colophon -->
 <url>
 <loc>https://zacharykai.net/colophon</loc>
-<lastmod>2024-07-24</lastmod>
+<lastmod>2024-07-26</lastmod>
 </url>
 
 <!-- Defaults -->
@@ -61,7 +61,7 @@
 <!-- Now -->
 <url>
 <loc>https://zacharykai.net/now</loc>
-<lastmod>2024-07-12</lastmod>
+<lastmod>2024-07-24</lastmod>
 </url>
 
 <!-- Save -->
@@ -70,10 +70,16 @@
 <lastmod>2024-07-24</lastmod>
 </url>
 
+<!-- Recipes -->
+<url>
+<loc>https://zacharykai.net/recipes</loc>
+<lastmod>2024-07-26</lastmod>
+</url>
+
 <!-- Sitemap -->
 <url>
 <loc>https://zacharykai.net/sitemap</loc>
-<lastmod>2024-07-24</lastmod>
+<lastmod>2024-07-26</lastmod>
 </url>
 
 <!-- Uses -->
@@ -93,7 +99,7 @@
 <!-- Site Ideas -->
 <url>
 <loc>https://zacharykai.net/notes/site-ideas</loc>
-<lastmod>2024-07-24</lastmod>
+<lastmod>2024-07-26</lastmod>
 </url>
 
 <!-- STORIES -->
