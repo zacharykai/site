@@ -7,8 +7,8 @@ body {
     font-size: 20px;
     line-height: 1.5em;
     max-width: 900px;
-    margin: 25px auto;
-    padding: 0 12px;
+    margin: auto;
+    padding: 3px;
 }
 
 /* TYPOGRAPHY */
@@ -42,13 +42,15 @@ code {
 /* LAYOUT */
 
 header {
-    font-size: 1.5em;
-    padding: 30px 20px;
+    margin-top: 10px;
+    font-size: 1.3em;
+    padding: 15px 20px;
     border: 3px #503832 double;
 }
 
 main {
     margin-top: 20px;
+    margin-bottom: 10px; 
     padding: 5px 20px;
     border: 3px #503832 double;
 }
@@ -58,8 +60,9 @@ ul, ol {
 }
 
 footer {
-    margin-top: 25px;
-    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+    padding: 10px 20px;
     border: 3px #503832 double;
     font-size: 15px;
     line-height: 1em;
@@ -68,8 +71,8 @@ footer {
 /* ENHANCEMENTS */
 
 .essentials {
-    margin-top: -10px;
     font-size: 0.75em;
+    line-height: 1em;
 }
 
 .postmeta {
