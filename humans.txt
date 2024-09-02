@@ -1,0 +1,18 @@
+/* This is my humans.txt file. See humanstxt.org for details. */
+
+/* Folks */
+
+Hi! It's just me, Zachary Kai.
+
+Mail: hi@zacharykai.net
+Sites: zacharykai.net + roadlessread.com
+
+/* Site */
+
+(Human) Languages: English
+(Programming) Languages: CSS + HTML
+Tools: GitHub, Notepad, WPX
+
+
+
+

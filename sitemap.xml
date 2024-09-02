@@ -1,102 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <!-- Home -->
 <url>
 <loc>https://zacharykai.net/</loc>
-<lastmod>2024-06-18</lastmod>
+<lastmod>2024-08-26</lastmod>
 </url>
  
 <!-- PAGES -->
 
-<!-- About -->
 <url>
 <loc>https://zacharykai.net/about</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- Blogroll -->
 <url>
 <loc>https://zacharykai.net/blogroll</loc>
-<lastmod>2024-07-24</lastmod>
+<lastmod>2024-08-26</lastmod>
 </url>
 
-<!-- Changelog -->
 <url>
 <loc>https://zacharykai.net/changelog</loc>
 <lastmod>2024-07-26</lastmod>
 </url>
 
-<!-- Colophon -->
 <url>
 <loc>https://zacharykai.net/colophon</loc>
 <lastmod>2024-07-26</lastmod>
 </url>
 
-<!-- Defaults -->
 <url>
 <loc>https://zacharykai.net/defaults</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- Hello -->
 <url>
 <loc>https://zacharykai.net/hello</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- Interests -->
 <url>
 <loc>https://zacharykai.net/interests</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- Music -->
 <url>
 <loc>https://zacharykai.net/music</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- Now -->
+<url>
+<loc>https://zacharykai.net/pamphlets</loc>
+<lastmod>2024-08-18</lastmod>
+</url>
+
 <url>
 <loc>https://zacharykai.net/now</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- Save -->
 <url>
 <loc>https://zacharykai.net/save</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- Recipes -->
 <url>
 <loc>https://zacharykai.net/recipes</loc>
 <lastmod>2024-07-26</lastmod>
 </url>
 
-<!-- Sitemap -->
 <url>
 <loc>https://zacharykai.net/sitemap</loc>
-<lastmod>2024-07-26</lastmod>
+<lastmod>2024-08-26</lastmod>
 </url>
 
-<!-- Uses -->
 <url>
 <loc>https://zacharykai.net/uses</loc>
-<lastmod>2024-07-24</lastmod>
+<lastmod>2024-08-26</lastmod>
 </url>
 
 <!-- NOTES -->
 
-<!-- Mildura Writers Festival -->
+<url>
+<loc>https://zacharykai.net/notes/lf24</loc>
+<lastmod>2024-08-26</lastmod>
+</url>
+
 <url>
 <loc>https://zacharykai.net/notes/mwf24</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- Site Ideas -->
 <url>
 <loc>https://zacharykai.net/notes/site-ideas</loc>
 <lastmod>2024-07-26</lastmod>
@@ -104,13 +98,11 @@
 
 <!-- STORIES -->
 
-<!-- Break Yourself Against The Universe -->
 <url>
 <loc>https://zacharykai.net/stories/break</loc>
 <lastmod>2024-07-24</lastmod>
 </url>
 
-<!-- One Seed At A Time -->
 <url>
 <loc>https://zacharykai.net/stories/seed</loc>
 <lastmod>2024-07-24</lastmod>
