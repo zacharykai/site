@@ -68,11 +68,24 @@ footer {
     line-height: 1em;
 }
 
+img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
 /* ENHANCEMENTS */
 
 .essentials {
     font-size: 0.75em;
     line-height: 1em;
+}
+
+.essentials li {
+    line-height: 1.2em;
 }
 
 .postmeta {
