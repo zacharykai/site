@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-
 <channel>
 <ttl>1440</ttl>
 
@@ -9,15 +7,60 @@
 <link>https://zacharykai.net/</link>
 <description>Offbeat, queer, 20-something, curiosity enthusiast, and traveler.</description>
 <language>en-us</language>
-<atom:link href="https://zacharykai.net/assets/rss.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://zacharykai.net/assets/rss.xml" rel="self" type="application/rss+xml"/>
 
 <image>
 <url>https://zacharykai.net/assets/zk_icon.png</url>
 <title>Zachary Kai</title>
 <link>https://zacharykai.net/</link>
 </image>
+<icon>https://zacharykai.net/assets/icon.ico</icon>
 
-<lastBuildDate>Mon, 26 Aug 2024 12:00:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Sep 2024 12:00:00 +0000</lastBuildDate>
+
+<item>
+<title>Are.na Walkthrough With Travess Smalley + Daniel Lefcourt</title>
+<link>https://zacharykai.net/notes/aw824</link>
+<pubDate>Fri, 27 Aug 2024 12:00:00 +0000</pubDate>
+<author>hi@zacharykai.net (Zachary Kai)</author>
+<guid isPermaLink="false">https://zacharykai.net/notes/aw824</guid>
+<description>Herein you'll find my notes from a virtual Are.na walkthrough: Travess Smalley + Daniel Lefcourt. They discussed how they use it to develop their ideas.</description>
+
+<content:encoded><![CDATA[
+
+<h1>Are.na Walkthrough With Travess Smalley + Daniel Lefcourt (16 Aug 2024)</h1>
+<p id="top">Herein you'll find my notes from a virtual Are.na walkthrough: <a href="https://www.travesssmalley.com/" target="_blank">Travess Smalley</a> + <a href="https://certainlynot.com/" target="_blank">Daniel Lefcourt</a>. They discussed how they use it to develop their ideas.</p>
+<p class="quotes" cite="https://www.are.na/are-na-editorial/channel-walkthrough-with-daniel-lefcourt-and-travess-smalley"> Travess and Daniel are going to be talking about visualizing sound and graphic notation, and walking us through their Are.na channels collecting examples of this kind of work. Both are wonderful artists who work with generative systems, so they will also relate these practices to their own work.</p>
+<ul>
+<li>Unrelated fields overlap in unexpected ways. Explore those disparate connections for new insights.</li>
+<li>Save everything you find interesting. You never know how it might inspire something later.</li>
+<li>If there aren’t words to describe what you’re researching or exploring, there’s a wealth of opportunities there.</li>
+<li>Art is a language. And just as we study books to find how we write, we can study artworks to discover how we express ourselves.</li>
+<li>Each painting sings the same song, uniquely.</li>
+<li>When you discover something new, you want to find others like them. If the creators share their influences, you’ll discover something unique. So share yours.</li>
+<li>The beauty of mixed media is you can mix and match often separate senses for surprising results. For example, sheet music as artworks.</li>
+<li>Learn the rules of software to break them to make art with unusual constraints.</li>
+<li>Rules are freeing when overwhelmed by the limitless of creativity, but breaking them and creating beyond them is often where the most fascinating ideas come from.</li>
+<li>If you’re stuck on a problem, working it out on paper can lead to breakthroughs.</li>
+<li>Our taste influences what we make. Begin with what you love and build upon it.</li>
+<li>The computer is a creative assistant, a portal to inspiration, or an art medium. Experiment.</li>
+<li>Creative processes as programming scripts.</li>
+<li>Book or zine making is such a rewarding process as it allows for constant experimentation..</li>
+<li>Paper is an excellent tool for processing information and engaging with a work.</li>
+</ul>
+<p><strong>Bibliography</strong></p>
+<ul>
+<li><a href="https://feralfile.com/exhibitions/crawl-yzx/series/crawl-svb" target="_blank">CRAWL (Exhibiton by Travess Smalley</a></li>
+<li><a href="https://www.are.na/travess-smalley/berenice-abbott-documenting-science" target="_blank"> Documenting Science (Travess Smalley's Are.na Channel)</a></li>
+<li><a href="https://www.are.na/daniel-lefcourt/graphic-traces" target="_blank">Graphic Traces (Daniel Lefcourt's Are.na Channel)</a></li>
+<li><a href="https://www.are.na/daniel-lefcourt/point-force-vector-bounds" target="_blank">Point Force (Daniel Lefcourt's Are.na Channel)</a></li>
+<li><a href="http://radicalart.info/" target="_blank">Radical Art</a></li>
+<li><a href="https://www.are.na/travess-smalley/visualizing-sound-tools-notations-drawings-graphics-and-paintings" target="_blank">Visualizing Sound (Travess Smalley's Are.na Channel)</a></li>
+</ul>
+<p>•--♡--•</p>
+
+]]></content:encoded>
+</item>
 
 <item>
 <title>Notes: Liminial Festival 2024</title>
@@ -25,14 +68,13 @@
 <pubDate>Sun, 25 Jul 2024 12:00:00 +0000</pubDate>
 <author>hi@zacharykai.net (Zachary Kai)</author>
 <guid isPermaLink="false">https://zacharykai.net/notes/lf24</guid>
-
 <description>Herein you'll find my notes from attending the inaugural Liminal Festival, hosted by the magazine of the same name, held in Melbourne, Australia (live and online.)</description>
 
 <content:encoded><![CDATA[
 
 <h1>Notes: Liminal Festival 2024</h1>
 <h2>Session #1: Little Fates</h2>
-<p><strong>Featuring <a href="https://www.wheelercentre.com/people/danny-soberano" target="_blank">Danny Soberano</a> & <a href="https://yanyiii.com/" target="_blank">Yanyi</a>.</strong></p>
+<p><strong>Featuring <a href="https://www.wheelercentre.com/people/danny-soberano" target="_blank">Danny Soberano</a> + <a href="https://yanyiii.com/" target="_blank">Yanyi</a>.</strong></p>
 <p class="quotes" cite="https://www.wheelercentre.com/events-tickets/season-2024/little-fates-yanyi-and-danny-soberano">"Yanyi and Danny examine poetic form as a tool for untangling the self and our surrounds. How is a person known? Perhaps in the way their coffee cools; as Danny Soberano writes: ‘I knew even then / that I was changed’. Or perhaps, as Yanyi writes, it is in the hanging of a poster, or the stringing of lights across the wall. In poetry, each detail matters tenfold and weighs a tonne, but still floats easy, steam off hot coffee. In this conversation, Yanyi and Danny examine the poetic form as a tool for untangling the self and our surrounds."</p>
 <ul>
 <li>Cooking is a renewable skill: it keeps on giving.</li>
@@ -94,7 +136,6 @@
 <p>•--♡--•</p>
 
 ]]></content:encoded>
-
 </item>
 
 <item>
@@ -103,14 +144,13 @@
 <pubDate>Mon, 22 Jul 2024 12:00:00 +0000</pubDate>
 <author>hi@zacharykai.net (Zachary Kai)</author>
 <guid isPermaLink="false">https://zacharykai.net/notes/mwf24</guid>
-
 <description>What I learned or found interesting from attending my first Writers Festival!</description>
 
 <content:encoded><![CDATA[
 
 <h1>Notes: Mildura Writers Festival 2024</h1>
-<h2 id="day-2-session-1">Day 2: Reading & Writing Place Into Being</h2>
-<p><strong>Featured <a href="https://ipcs.org.au/people/melinda-hinkson/">Melinda Hinkson</a>, <a href="https://www.melissa-lucashenko.com/">Melissa Lucashenko</a>, <a href="https://scholars.latrobe.edu.au/lmpearce">Lilian Pearce</a>, <a href="https://www.intellectbooks.com/emily-potter">Emily Potter</a> & <a href="https://nikitavanderbyl.com/">Nikita Vanderbyl</a>.</strong></p>
+<h2 id="day-2-session-1">Day 2: Reading + Writing Place Into Being</h2>
+<p><strong>Featured <a href="https://ipcs.org.au/people/melinda-hinkson/">Melinda Hinkson</a>, <a href="https://www.melissa-lucashenko.com/">Melissa Lucashenko</a>, <a href="https://scholars.latrobe.edu.au/lmpearce">Lilian Pearce</a>, <a href="https://www.intellectbooks.com/emily-potter">Emily Potter</a> + <a href="https://nikitavanderbyl.com/">Nikita Vanderbyl</a>.</strong></p>
 <p cite="http://www.mildurawritersfestival.com/uploads/1/2/1/7/121719570/mwf_digital_program24.pdf" class="quotes">"What does the practice of writing and reading about placemaking reveal and why is it a radical act? Our speakers explore the ways in which their work redefines the spirit of place."</p>
 <ul>
 <li>Places as an anchor in creative writing (the well from where stories spring.)</li>
@@ -182,7 +222,7 @@
 <li>Improv, theatre, poetry, and playwriting enrich prose.</li>
 <li>Always stand up for yourself and look after the underdog.</li>
 </ul>
-<h2 id="day-2-session-4">Day 2: The Poet & The Sufi Singer</h2>
+<h2 id="day-2-session-4">Day 2: The Poet + The Sufi Singer</h2>
 <p><strong>Featured <a href="https://www.wheelercentre.com/people/marjon-mossammaparast/">Marjon Mossammaparast</a> and <a href="https://farhanshahmusic.com/">Farhan Shah</a>.</strong></p>
 <p cite="http://www.mildurawritersfestival.com/uploads/1/2/1/7/121719570/mwf_digital_program24.pdf" class="quotes">"A discussion of Sufism, the mystical expression of Islam, and the disciplines within it that include poetry, music, dance, and theology."</p>
 <ul>
@@ -240,7 +280,7 @@
 <li>Humor softens the blow of uncomfortable truths.</li>
 </ul>
 <h2 id="day-3-session-5">Day 3: How Reading Makes Us Human</h2>
-<p><strong>Featured Angela Savage, Christos Tsiolkas, Charlotte Wood, Melissa Lucashenko & <a href="http://www.namleonline.com/">Nam Lee</a>.</strong></p>
+<p><strong>Featured Angela Savage, Christos Tsiolkas, Charlotte Wood, Melissa Lucashenko + <a href="http://www.namleonline.com/">Nam Lee</a>.</strong></p>
 <p cite="http://www.mildurawritersfestival.com/uploads/1/2/1/7/121719570/mwf_digital_program24.pdf" class="quotes">"An unmissable discussion with a panel of deep thinkers and accomplished writers about the value of reading."</p>
 <ul>
 <li>Stories shape our identity, stirring emotion, sparking wonder, and offering escape.</li>
@@ -478,7 +518,7 @@
 <li><a href="https://jamesg.blog/2024/02/19/personal-website-ideas/" target="_blank">100 Things You Can Do On Your Personal Website by James G</a></li>
 <li><a href="https://jamesg.blog/2024/03/10/100-more-personal-website-ideas/" target="_blank">100 (More) Things You Can Do On Your Personal Website by James G</a></li>
 <li><a href="https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/" target="_blank">Cool Things People Do With Their Blogs by Brain Baking</a></li>
-<li><a href="https://diagram.website/" target="_blank">Diagram Website: An Internet Map by Kristoffer Tjalve & Elliott Cost</a></li>
+<li><a href="https://diagram.website/" target="_blank">Diagram Website: An Internet Map by Kristoffer Tjalve + Elliott Cost</a></li>
 <li><a href="https://32bit.cafe/websiteideas/" target="_blank">Ideas For Your Personal Website by Star</a></li>
 <li><a href="https://indieweb.org/wiki/index.php?title=Special:AllPages" target="_blank">Indieweb Wiki</a></li>
 <li><a href="https://maggieappleton.com/patterns" target="_blank">Pattern Catalog by Maggie Appleton</a></li>

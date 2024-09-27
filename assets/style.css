@@ -79,6 +79,11 @@ img {
 
 /* ENHANCEMENTS */
 
+#post-end {
+    padding-top: 20px; 
+    border-top: 3px #503832 double;
+}
+
 .essentials {
     font-size: 0.75em;
     line-height: 1em;
